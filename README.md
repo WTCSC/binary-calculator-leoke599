@@ -1,6 +1,6 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=17648150)
 # Binary Calculator
-This program is a binary calculator that can only take up to 8-bits. It will return "Error" if the binary number is invalid (if the binary number contains anything other than 0 and 1), returns "Overflow" if the binary number is greater than 8-bits or is negative, and returns "NaN" (Not a Number) if a binary number is being divided by 0. The program will always return 8-bit numbers with leading zeros if necessary.
+This program is a binary calculator that can only take up to 8-bits. It will return "Error" if the binary number is invalid (if the binary number contains anything other than 0 and 1), returns "Overflow" if the binary number is greater than 8-bits or is negative, and returns "NaN" (Not a Number) if a binary number is being divided by 0. The program will always return 8-bit numbers with leading zeros if necessary. The program will take two binary numbers and one operator.
 
 <!--
 
